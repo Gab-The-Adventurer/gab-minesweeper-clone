@@ -2,4 +2,3 @@ minesweeper
 *.exe
 *.o
 *.dll
-build/
